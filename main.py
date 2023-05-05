@@ -2,6 +2,7 @@
 import sqlite3
 import openpyxl
 
+
 # создаем базу данных
 conn = sqlite3.connect('URSiP.db')
 # создаем объект курсора для работы с базой данных
